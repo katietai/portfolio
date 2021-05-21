@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+
+body{
+    text-align: center;
+    
+    font-family:'Indie Flower', cursive;
+    background-color: #E1C9C4  ;
+
+}
+   h1{
+       font-size: 50px;
+       color:black;
+       border: 10px dotted black;
+   }
+    #image{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    
+    }
+   h1.work{
+       color:black;
+       border: 5px solid black;
+   }
+   h2{
+       font-size: 30px;
+       color:blueviolet;
+   }
+   p{
+       color:black;
+       font-size: 20px;
+   }
+   h1.education{
+       color: black;
+       border: 5px solid black;
+   }
+   .greeting{
+       font-size: 20px;
+   }
+   a:link {
+       color:black;
+       font-size: 40px;;
+   }
