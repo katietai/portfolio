@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@600&display=swap');
+Body{
+    background-color: #CE978B;
+}
+table{
+width: 500px;
+color:brown;
+
+
+}
+
+th{
+    text-transform: uppercase;
+    font-size: 90%;
+    border-bottom: 2px solid #ffffff;
+    border-top: 2px solid #ffffff;
+    line-spacing: 1 em;
+    text_align: left;
+}
+    h1,p{
+        font-family:'Fredoka One', cursive;
+        font_size: 2 rem;
+        line-height: 1.3 rem;
+        font-style: bold;
+    }
+    
+    fieldset{
+        width: 200px;
+        border: solid 3px black;
+        text-align: left;
+        border-radius: 10px;
+        padding: 30px;
+        
+
+    }
+    legend{
+        text-transform: capitalize;
+        padding: 10px 20px;
+        border: 1px solid whitesmoke;
+        font-family:'Fredoka One', cursive; 
+        
+    }
+    ul{
+    list-style-type: circle;
+    margin:10px 0px 0px 0xp;
+    }
+  
+    li{
+        font-family:'Exo', sans-serif;
+        font-size: 1rem;
+        line-height: 1rem;
+
+    }
+    img{
+        border-radius: 20px;
+        border: 2px solid black;
+    }
